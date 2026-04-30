@@ -20,7 +20,7 @@ export const rocket = [
   String.raw`     /      ||      \     `,
   String.raw`    /       ||       \    `,
   String.raw`   /        ||        \   `,
-  String.raw`  /      S H A R K     \  `,
+  String.raw`  /    S H A R K II    \  `,
   String.raw` /          ||          \ `,
   String.raw` \          ||          / `,
   String.raw`  \         ||         /  `,
