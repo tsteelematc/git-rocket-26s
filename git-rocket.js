@@ -11,7 +11,7 @@ export const rocket = [
   String.raw`                    | |______| |                    `,
   String.raw`                   /|          |\                   `,
   String.raw`                  / |   fork*  | \                  `,
-  String.raw`                 /  |          |  \                 `,
+  String.raw`                 /  |   ****   |  \                 `,
   String.raw`                /___|__________|___\                `,
   String.raw`                    |    ||    |                    `,
   String.raw`                    |    ||    |                    `,
